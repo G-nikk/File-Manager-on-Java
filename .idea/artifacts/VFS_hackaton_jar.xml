@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VFS.hackaton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VFS_hackaton_jar</output-path>
+    <root id="archive" name="VFS.hackaton.jar">
+      <element id="module-output" name="VFS.hackaton" />
+    </root>
+  </artifact>
+</component>

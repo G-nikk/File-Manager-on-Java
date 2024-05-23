@@ -1,6 +1,6 @@
 package vfs;
 
-class File {
+class File implements IFile {
     String name;
     String content;
 

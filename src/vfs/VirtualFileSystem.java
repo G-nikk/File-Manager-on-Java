@@ -3,7 +3,7 @@ package vfs;
 import java.util.ArrayList;
 import java.util.List;
 
-public class VirtualFileSystem {
+public class VirtualFileSystem implements IVirtualFileSystem {
     List<Folder> folders;
     List<String> history;
 
